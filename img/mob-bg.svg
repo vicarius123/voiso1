@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" height="100%" preserveAspectRatio="none" viewBox="0 0 375 2542" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="97.3220737%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4A27C5" stop-opacity="0.700407609" offset="0%"></stop>
+            <stop stop-color="#4A27C5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Voiso_mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voiso_mobile_Main_page" transform="translate(0.000000, -4016.000000)" fill="url(#linearGradient-1)">
+            <path d="M-3,4045.86075 C11.6432352,4038.59313 31.6882445,4034.95932 57.135028,4034.95932 C95.3052033,4034.95932 160.787998,4050.24939 187.051085,4045.86075 C205.522655,4043.35369 276.263433,4024.49965 292.833048,4022.616 C311.5492,4018.20533 339.938184,4016 378,4016 L378,6528.30027 C353.806739,6535.69449 319.514434,6537.03524 275.123086,6532.3225 C256.639962,6531.51833 209.608653,6521.34005 167.48251,6530.87029 C145.624802,6536.35019 108.448199,6544.56453 57.135028,6551.78344 C44.8969213,6553.50514 24.851912,6555.57733 -3,6558 L-3,4045.86075 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

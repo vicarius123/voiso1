@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" preserveAspectRatio="none" height="100%" viewBox="0 0 1440 2716" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="97.3220737%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4A27C5" stop-opacity="0.700407609" offset="0%"></stop>
+            <stop stop-color="#4A27C5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Voiso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voiso_desktop-Copy" transform="translate(0.000000, -4079.000000)" fill="url(#linearGradient-1)">
+            <path d="M1440.31508,5713.36686 C1441.53435,5713.5697 1442.76257,5713.7763 1444,5713.98671 L1443.40775,6064.00191 L1443.05149,6659.52096 L1444,6668.98081 C1278.75473,6754.19866 977.722762,6686.26488 797.743332,6678.59425 C708.422156,6674.78752 604.934266,6705.70546 476.03663,6736.62341 C354.405364,6765.79858 210.158012,6794.97375 33.8290529,6794.973 C22.6844807,6794.97224 11.4031191,6794.85566 1.36424205e-12,6794.193 L0.567277206,6251.74598 C-0.613346242,6251.54943 -1.80235797,6251.34936 -3,6251.14571 L-2.40774731,5901.13051 L-2.05149378,4214.45203 L-3,4204.99219 C162.245265,4119.77434 463.277238,4187.70812 643.256668,4195.37875 C732.577844,4199.18548 836.065734,4168.26753 964.96337,4137.34959 C1086.59464,4108.17442 1230.84199,4078.99925 1407.17095,4079 C1418.31552,4079.00075 1429.59688,4079.11734 1441,4079.78 L1440.31511,5713.36682 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

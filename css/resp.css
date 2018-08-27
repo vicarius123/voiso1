@@ -1,0 +1,250 @@
+@media (min-width:1600px) {
+  html{
+    zoom:1.25;
+  }
+}
+
+@media (max-width:900px) {
+  .copyright p, .menu a, .menu-foo li a {
+    font-size: 13px
+  }
+  .upper-menu a {
+    margin-left: 30px
+  }
+  .feature-each {
+    padding: 30px 20px
+  }
+  .princing-blck img {
+    max-width: 80%
+  }
+  h2 {
+    font-size: 30px
+  }
+  .button-start {
+    margin-top: 65px;
+    font-size: 16px
+  }
+}
+
+@media (max-width:850px) {
+  .wrapper {
+    padding: 0 30px
+  }
+  .ui-coverflow img {
+    height: 199px
+  }
+  .microsoft_logo {
+    max-height: 30px
+  }
+  .Sugar_CRM_logo {
+    max-height: 20px
+  }
+  .salesforce {
+    max-height: 75px
+  }
+  h2 {
+    font-size: 28px
+  }
+  .button-start {
+    font-size: 14px
+  }
+}
+
+@media (max-width:768px) {
+  .down-waves, .waves {
+    width: 250px
+  }
+  .menu a {
+    font-size: 11px
+  }
+  .waves {
+    height: 250px
+  }
+}
+
+@media (max-width:575px) {
+  .audio-quality-blck, .foo-center li, .foo-left, .foo-right, .metrics-ctn {
+    text-align: center
+  }
+  .princing-blck {
+    margin-top: 50px;
+  }
+  .wave-bg{
+    background: url(/img/mob_1_wave.svg);
+    margin-top: 25px;
+  }
+  .main-block h1 {
+    line-height: 1.15;
+    margin-bottom: 22px
+  }
+  .flipster {
+    max-width: 400px;
+    overflow: hidden
+  }
+  .flip-items img {
+    height: 140px;
+    width: auto
+  }
+  .video-comp {
+    margin-top: 50px
+  }
+  .slogan {
+    margin-bottom: 40px
+  }
+  .button-start {
+    margin-top: 60px;
+    font-size: 18px;
+    padding: 10px 25px
+  }
+  .metrics-ctn {
+    margin-top: 70px
+  }
+  .ui-coverflow-wrapper {
+    height: 207px;
+    margin-top: 42px
+  }
+  .waves {
+    margin: 60px auto
+  }
+  .down-waves {
+    margin: 0 auto
+  }
+  .crm-int {
+    margin-top: 100px
+  }
+  .metrics-ctn .small-ctn.text-center {
+    margin-top: -60px
+  }
+  .git-btn {
+    margin-top: 30px
+  }
+  .map_img {
+    margin-top: 60px;
+    overflow-x: scroll
+  }
+  .map_img img {
+    min-width: 850px
+  }
+  .fill-1, .fill-2 {
+    width: 15px;
+    height: 15px
+  }
+  .map-legend {
+    align-items: center
+  }
+  h2 {
+    font-size: 30px;
+    line-height: 1.33
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.67
+  }
+  .audio-quality-blck>.row>.col-sm-6:nth-child(2) {
+    margin-top: 100px
+  }
+  .carousel-inner img {
+    margin: 0 auto
+  }
+  #carouselExampleIndicators {
+    height: 150px;
+    margin-top: 50px
+  }
+  .Sugar_CRM_logo {
+    min-height: 30px
+  }
+  .microsoft_logo {
+    max-height: 30px
+  }
+  .salesforce {
+    max-height: 90px;
+    margin: 0 auto;
+
+  }
+  .carousel-indicators li.active {
+    background-color: #4a27c5
+  }
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 150px;
+    background-color: #f0f0f0;
+    margin-right: 5px;
+    margin-left: 5px
+  }
+  .third-block {
+    background: url(/img/mob-bg.svg);
+    padding-bottom: 150px
+  }
+  .carousel-control-prev {
+    left: -20px;
+    width: 20px
+  }
+  .carousel-control-next {
+    right: -20px;
+    width: 20px
+  }
+  .button-git:before {
+    left: -65px
+  }
+  .foo-left li a {
+    font-size: 20px
+  }
+  .copyright p, .foo-center li a, .foo-right .sign-in {
+    font-size: 16px
+  }
+  .foo-center .d-flex {
+    justify-content: space-between
+  }
+  .feature-b, .sign-in {
+    font-size: 14px
+  }
+  .sign-in {
+    padding: 9px 6px 7px 6px;
+  }
+  .feature-each {
+    padding: 15px 10px
+  }
+  .princing-blck img {
+    margin: 0 auto;
+    max-width: 100%
+  }
+  .price-right-mob {
+    margin-top: 100px !important;
+    margin-bottom: 40px !important
+  }
+  .border-foo {
+    margin-top: 100px;
+    margin-bottom: 26px
+  }
+}
+
+@media (max-width:414px) {
+  .menu a {
+    font-size: 11px
+  }
+  .ui-coverflow img {
+    height: 150px
+  }
+  .wrapper {
+    padding: 0 15px
+  }
+  .carousel-item .row {
+    margin: 0
+  }
+  .carousel-control-next {
+    right: -12px;
+    width: 27px
+  }
+  .carousel-control-prev {
+    left: -12px;
+    width: 27px
+  }
+}
+
+@media (max-width:320px) {
+  .flip-items img {
+    height: 120px;
+    width: auto
+  }
+}

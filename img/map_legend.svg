@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="20px" viewBox="0 0 310 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Voiso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Voiso_desktop" transform="translate(-201.000000, -5322.000000)">
+            <g id="Group-12" transform="translate(201.000000, 5319.000000)">
+                <text id="NOC" font-family="GothamPro-Light, Gotham Pro" font-size="16" font-weight="300" line-spacing="26" fill="#FFFFFF">
+                    <tspan x="34" y="12">NOC</tspan>
+                </text>
+                <text id="Voice-gateaway" font-family="GothamPro-Light, Gotham Pro" font-size="16" font-weight="300" line-spacing="26" fill="#FFFFFF">
+                    <tspan x="184" y="12">Voice gateaway</tspan>
+                </text>
+                <path d="M20,13 C20,18.5232997 15.522767,23 9.99965686,23 C4.47723295,23 0,18.5232997 0,13 C0,7.4767003 4.47723295,3 9.99965686,3 C15.522767,3 20,7.4767003 20,13" id="Fill-1" fill="#FF1D1D"></path>
+                <path d="M167,13 C167,18.5232997 162.522767,23 156.999657,23 C151.477233,23 147,18.5232997 147,13 C147,7.4767003 151.477233,3 156.999657,3 C162.522767,3 167,7.4767003 167,13" id="Fill-1-Copy" fill="#19B6FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
