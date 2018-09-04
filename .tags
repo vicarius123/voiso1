@@ -1,0 +1,389 @@
+html	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^<html lang="en">$/;"	function	line:2
+head	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^<head>$/;"	function	line:3
+meta	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <meta charset="utf-8">$/;"	function	line:4
+link	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <link rel="icon" type="image\/png" sizes="16x16" href="\/fav\/logo.png">$/;"	function	line:5
+meta	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:6
+link	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <link rel="stylesheet" href="\/css\/bootstrap.min.css">$/;"	function	line:7
+link	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <link rel="stylesheet" href="\/css\/template.css">$/;"	function	line:8
+link	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <link rel="stylesheet" href="\/css\/resp.css">$/;"	function	line:9
+link	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <link rel="stylesheet" href="\/css\/coverflow.css">$/;"	function	line:10
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.1.3\/jquery.min.js"><\/script>$/;"	function	line:11
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/\/cdnjs.cloudflare.com\/ajax\/libs\/jquery-scrollTo\/2.1.2\/jquery.scrollTo.min.js"><\/script>$/;"	function	line:12
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/bootstrap.min.js"><\/script>$/;"	function	line:14
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/TweenMax.min.js"><\/script>$/;"	function	line:16
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/jquery.wavify.js"><\/script>$/;"	function	line:17
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/jquery.matchHeight-min.js"><\/script>$/;"	function	line:19
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/coverflow.min.js"><\/script>$/;"	function	line:20
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/jssor.slider.min.js"><\/script>$/;"	function	line:21
+script	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <script src="\/js\/custom.js"><\/script>$/;"	function	line:22
+body	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^<body>$/;"	function	line:24
+section	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <section id="mob-menu-ctn">$/;"	function	line:25
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^    <div class="wrapper">$/;"	function	line:26
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <br \/><br \/>$/;"	function	line:27
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="menu-mob active">$/;"	function	line:28
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <span><\/span>$/;"	function	line:29
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <span><\/span>$/;"	function	line:30
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <span><\/span>$/;"	function	line:31
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="menu-mob-inn">$/;"	function	line:33
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-dashboard">Dashboard<\/a>$/;"	function	line:34
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-metrics">Metrics<\/a>$/;"	function	line:35
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-search">Call search tools<\/a>$/;"	function	line:36
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-crm">CRM integrations<\/a>$/;"	function	line:37
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-local">Local Presence<\/a>$/;"	function	line:38
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-features">Features<\/a>$/;"	function	line:39
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="to-pricing">Pricing<\/a>$/;"	function	line:40
+nav	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <nav class="upper-menu text-right">$/;"	function	line:42
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="mailto:info@voiso.com">info@voiso.com<\/a>$/;"	function	line:44
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="tel:8887089633">888 708 9633<\/a>$/;"	function	line:45
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <a href="#" class="sign-in">SIGN IN<\/a>$/;"	function	line:46
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^  <div class="main">$/;"	function	line:50
+header	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^    <header class="wrapper header">$/;"	function	line:51
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="d-sm-none d-none d-md-block">$/;"	function	line:52
+nav	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <nav class="upper-menu text-right">$/;"	function	line:53
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="mailto:info@voiso.com">info@voiso.com<\/a>$/;"	function	line:54
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="tel:8887089633">888 708 9633<\/a>$/;"	function	line:55
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="sign-in">SIGN IN<\/a>$/;"	function	line:56
+nav	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <nav class=" flex-middle menu d-flex">$/;"	function	line:58
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="\/"><img src="\/img\/logo.svg" class="logo_1"\/><\/a>$/;"	function	line:59
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-dashboard">Dashboard<\/a>$/;"	function	line:61
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-metrics">Metrics<\/a>$/;"	function	line:62
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-search">Call search tools<\/a>$/;"	function	line:63
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-crm">CRM integrations<\/a>$/;"	function	line:64
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-local">Local Presence<\/a>$/;"	function	line:65
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-features">Features<\/a>$/;"	function	line:66
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <a href="#" class="to-pricing">Pricing<\/a>$/;"	function	line:67
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="d-md-none d-lg-none d-xl-none">$/;"	function	line:71
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="row flex-middle">$/;"	function	line:72
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="col-4">$/;"	function	line:73
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="menu-mob">$/;"	function	line:74
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <span><\/span>$/;"	function	line:75
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <span><\/span>$/;"	function	line:76
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <span><\/span>$/;"	function	line:77
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="col-4 text-center">$/;"	function	line:80
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <a href="\/"><img src="\/img\/logo.svg" class="mob-logo"\/><\/a>$/;"	function	line:81
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="col-4 text-right">$/;"	function	line:83
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <a href="#" class="sign-in">SIGN IN<\/a>$/;"	function	line:84
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^    <div class="content">$/;"	function	line:90
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="first-block">$/;"	function	line:91
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="wave-bg">$/;"	function	line:92
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="main-block">$/;"	function	line:96
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="wrapper">$/;"	function	line:97
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="row flex-middle">$/;"	function	line:98
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-5">$/;"	function	line:99
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <h1>Better call<br \/>outcomes.<br \/>Always.<\/h1>$/;"	function	line:100
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <p class="slogan">$/;"	function	line:101
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class=" d-sm-block d-none ">$/;"	function	line:104
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#" class="button-start ">Get Started<\/a>$/;"	function	line:105
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-7">$/;"	function	line:109
+video	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <video id="video1" width="100%" height="auto" controls  poster="\/img\/poster1.png">$/;"	function	line:110
+source	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <source src="\/img\/Video_1st_screen.mp4" type="video\/mp4" \/>$/;"	function	line:111
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="text-center d-block d-sm-none">$/;"	function	line:114
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#" class="button-start ">Get Started<\/a>$/;"	function	line:115
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="second-block">$/;"	function	line:124
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="wrapper">$/;"	function	line:125
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="small-ctn text-center">$/;"	function	line:126
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <h2>Boost your agents performance with powerful real-time dashboard<\/h2>$/;"	function	line:127
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <br \/><br \/>$/;"	function	line:128
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <p class="grey">$/;"	function	line:129
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="relative">$/;"	function	line:133
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div>$/;"	function	line:134
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="flipster">$/;"	function	line:135
+ul	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <ul class="flip-items">$/;"	function	line:136
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="1">$/;"	function	line:137
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 3.png" \/>$/;"	function	line:138
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="2">$/;"	function	line:140
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 1.png" \/>$/;"	function	line:141
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="3">$/;"	function	line:143
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 2.png" \/>$/;"	function	line:144
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="4">$/;"	function	line:146
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 4.png" \/>$/;"	function	line:147
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="5">$/;"	function	line:149
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 5.png" \/>$/;"	function	line:150
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="6">$/;"	function	line:152
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 6.png" \/>$/;"	function	line:153
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <li id="7">$/;"	function	line:155
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/vidget 7.png" \/>$/;"	function	line:156
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div id="coverflow-slider"><\/div>$/;"	function	line:162
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="arrows-coverflow">$/;"	function	line:163
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <a href="#" class="coverflow-left"><img src="\/img\/arrow-left.svg" \/><\/a>$/;"	function	line:164
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <a href="#" class="coverflow-right"><img src="\/img\/arrow-right.svg" \/><\/a>$/;"	function	line:165
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="metrics-ctn">$/;"	function	line:169
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="row">$/;"	function	line:170
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-6">$/;"	function	line:171
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <h2 class="d-none d-sm-block">$/;"	function	line:172
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <span class="purple">50 metrics<br \/>$/;"	function	line:173
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <h2 class="d-block d-sm-none">$/;"	function	line:179
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <span class="purple">50 metrics<br \/>$/;"	function	line:180
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="col-sm-6 text-right">$/;"	function	line:185
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="waves">$/;"	function	line:186
+svg	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <svg width="100%" height="100%" preserveAspectRatio="none" version="1.1" xmlns="http:\/\/www.w3.org\/2000\/svg" class="wave3">$/;"	function	line:188
+defs	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <defs>$/;"	function	line:189
+linearGradient	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">$/;"	function	line:190
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="0%" style="stop-color:rgba(74, 39, 197, 0.4);stop-opacity:1" \/>$/;"	function	line:191
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="100%" style="stop-color:#4a27c5;stop-opacity:1" \/>$/;"	function	line:193
+path	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <path id="wave3" d="" fill="url(#grad4)"\/>$/;"	function	line:196
+svg	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <svg width="100%" height="100%" preserveAspectRatio="none" version="1.1" xmlns="http:\/\/www.w3.org\/2000\/svg" class="wave4">$/;"	function	line:199
+defs	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <defs>$/;"	function	line:200
+linearGradient	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%">$/;"	function	line:201
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="0%" style="stop-color:rgba(80, 140, 255, 0.4);stop-opacity:1" \/>$/;"	function	line:202
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="100%" style="stop-color:#6eabfb;stop-opacity:1" \/>$/;"	function	line:204
+path	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <path id="wave4" d="" fill="url(#grad5)"\/>$/;"	function	line:207
+svg	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <svg width="100%" height="100%" preserveAspectRatio="none" version="1.1" xmlns="http:\/\/www.w3.org\/2000\/svg" class="wave5">$/;"	function	line:210
+defs	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <defs>$/;"	function	line:211
+linearGradient	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="0%">$/;"	function	line:212
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="0%" style="stop-color:rgba(253, 37, 47, 0.2);stop-opacity:1" \/>$/;"	function	line:213
+stop	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <stop offset="100%" style="stop-color:#fd252f;stop-opacity:1" \/>$/;"	function	line:215
+path	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <path id="wave5" d="" fill="url(#grad6)"\/>$/;"	function	line:218
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="down-waves">$/;"	function	line:222
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="menu-wave">$/;"	function	line:223
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 305px; height: 144px; overflow: hidden; ">$/;"	function	line:224
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 144px;overflow: hidden;">$/;"	function	line:225
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:226
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh1_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:227
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:228
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Total Talk Time<\/div>$/;"	function	line:229
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:233
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh2_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:234
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:235
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Average Speed of Answer<\/div>$/;"	function	line:236
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:240
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh3_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:241
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:242
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Average IVR Time<\/div>$/;"	function	line:243
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:247
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh4_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:248
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:249
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Call Attempts<\/div>$/;"	function	line:250
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:254
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh5_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:255
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:256
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Calls in Queue<\/div>$/;"	function	line:257
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div>$/;"	function	line:261
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div id="sliderh6_container" style="position: relative; top: 0px; left: 0px; width: 305px;height: 48px;">$/;"	function	line:262
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div data-u="slides" style="position: absolute; left: 0px; top: 0px; width: 305px; height: 48px;overflow: hidden;">$/;"	function	line:263
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <div class="slide-txt">Service Level<\/div>$/;"	function	line:264
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="separator-text-wave">$/;"	function	line:270
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div><\/div>$/;"	function	line:271
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div><\/div>$/;"	function	line:272
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div><\/div>$/;"	function	line:273
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="text-center git-btn">$/;"	function	line:279
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <a href="#" class="button-start button-git">Get in touch<\/a>$/;"	function	line:280
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <br \/><br \/><br \/><br \/><br \/><br \/><br \/>$/;"	function	line:282
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="small-ctn text-center searchtools-ctn">$/;"	function	line:283
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <h2>Advanced call record search tools Events-based navigation: Fast forward to a specific call stage<\/h2>$/;"	function	line:284
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <br \/><br \/>$/;"	function	line:285
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <p class="grey">$/;"	function	line:286
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="video-comp">$/;"	function	line:290
+video	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <video id="video2" width="100%" height="100%" preload  controls poster="\/img\/poster2.png">$/;"	function	line:291
+source	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <source src="\/img\/mockup_3_video.mp4" type="video\/mp4" \/>$/;"	function	line:292
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="crm-int text-center">$/;"	function	line:296
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <h2>CRM integrations<\/h2>$/;"	function	line:297
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-sm-block d-none">$/;"	function	line:298
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="crm-icn d-flex flex-middle">$/;"	function	line:299
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/Sugar_CRM_logo.svg" class="Sugar_CRM_logo"\/>$/;"	function	line:300
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/microsoft_logo.svg" class="microsoft_logo"\/>$/;"	function	line:301
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <img src="\/img\/Salesforce.svg" class="salesforce"\/>$/;"	function	line:302
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-sm-none d-block">$/;"	function	line:305
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:547px;height:120px;visibility:hidden;">$/;"	function	line:306
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div data-u="slides" class="text-center d-flex flex-middle jssor-inner" style="cursor:default;position:relative;top:0px;left:0px;width:547px;height:120px;overflow:hidden;">$/;"	function	line:307
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div>$/;"	function	line:308
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img class="d-block Sugar_CRM_logo" src="\/img\/Sugar_CRM_logo.svg">$/;"	function	line:309
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div>$/;"	function	line:311
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img class="d-block microsoft_logo" src="\/img\/microsoft_logo.svg">$/;"	function	line:312
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div>$/;"	function	line:314
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img class="d-block salesforce" src="\/img\/Salesforce.svg">$/;"	function	line:315
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div>$/;"	function	line:317
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img class="d-block salesforce" src="\/img\/profitit.svg">$/;"	function	line:318
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div data-u="navigator" class="jssorb052" style="position:absolute;bottom:-20px;right:0;left:0" data-autocenter="1">$/;"	function	line:321
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div data-u="prototype" class="i" style="width:16px;height:16px;">$/;"	function	line:322
+svg	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <svg viewBox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">$/;"	function	line:323
+circle	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <circle class="b" cx="8000" cy="8000" r="5800"><\/circle>$/;"	function	line:324
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="third-block">$/;"	function	line:336
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="map">$/;"	function	line:337
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="wrapper">$/;"	function	line:338
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <h2 class="white">Local Presence<\/h2>$/;"	function	line:339
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="map_img">$/;"	function	line:341
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <img src="\/img\/map_1.svg" class=""\/>$/;"	function	line:342
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <br \/>$/;"	function	line:345
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="wrapper">$/;"	function	line:346
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="map-legend">$/;"	function	line:347
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <span class="fill-1"><\/span>$/;"	function	line:348
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <span>NOC<\/span>$/;"	function	line:349
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <span class="fill-2"><\/span>$/;"	function	line:350
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <span>Voice gateaway<\/span>$/;"	function	line:351
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="audio-quality-blck ">$/;"	function	line:353
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="row">$/;"	function	line:354
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="col-sm-6 col-lg-5 ">$/;"	function	line:355
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <h2 class="white">Superb<br \/>audio quality<\/h2>$/;"	function	line:356
+Br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <Br \/><br \/>$/;"	function	line:357
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <p>$/;"	function	line:358
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="col-sm-6 col-lg-5 white offset-lg-2 offset-sm-0">$/;"	function	line:363
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <h2 class="white">Experienced<br \/>support team<\/h2>$/;"	function	line:364
+Br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <Br \/><br \/>$/;"	function	line:365
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <p>$/;"	function	line:366
+Br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <Br \/><br \/><br \/>$/;"	function	line:372
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="features-ctn">$/;"	function	line:373
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="text-center">$/;"	function	line:374
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <h2 class="white">Features<\/h2>$/;"	function	line:375
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <br \/><br \/><br \/>$/;"	function	line:377
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-block d-sm-none">$/;"	function	line:378
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">$/;"	function	line:379
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="carousel-inner">$/;"	function	line:380
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="carousel-item active">$/;"	function	line:381
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="row text-center">$/;"	function	line:382
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:383
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:384
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:385
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/1.svg" \/>$/;"	function	line:386
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:388
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:391
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:397
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:398
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:399
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/2.svg" \/>$/;"	function	line:400
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:402
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:405
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="carousel-item">$/;"	function	line:412
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="row text-center">$/;"	function	line:413
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:414
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:415
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:416
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/3.svg" \/>$/;"	function	line:417
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:419
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:422
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:427
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:428
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:429
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/4.svg" \/>$/;"	function	line:430
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:432
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:435
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="carousel-item">$/;"	function	line:443
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="row text-center">$/;"	function	line:444
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:445
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:446
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:447
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/5.svg" \/>$/;"	function	line:448
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:450
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:453
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:459
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:460
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:461
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/6.svg" \/>$/;"	function	line:462
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:464
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:467
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="carousel-item">$/;"	function	line:475
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="row text-center">$/;"	function	line:476
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:477
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:478
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:479
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/7.svg" \/>$/;"	function	line:480
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:482
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:485
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <div class="col-sm-6 col-md-3 col-6">$/;"	function	line:490
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                            <div class="feature-each">$/;"	function	line:491
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <div class="features-icn">$/;"	function	line:492
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                                <img src="\/img\/8.svg" \/>$/;"	function	line:493
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="feature-b">$/;"	function	line:495
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                              <p class="f-solution">$/;"	function	line:498
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">$/;"	function	line:507
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <span class="carousel-control-prev-icon" aria-hidden="true"><\/span>$/;"	function	line:508
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <span class="sr-only">Previous<\/span>$/;"	function	line:509
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">$/;"	function	line:511
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <span class="carousel-control-next-icon" aria-hidden="true"><\/span>$/;"	function	line:512
+span	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <span class="sr-only">Next<\/span>$/;"	function	line:513
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-none d-sm-block">$/;"	function	line:517
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="row text-center">$/;"	function	line:518
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:519
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:520
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:521
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/1.svg" \/>$/;"	function	line:522
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:524
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:527
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:533
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:534
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:535
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/2.svg" \/>$/;"	function	line:536
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:538
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:541
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:546
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:547
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:548
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/3.svg" \/>$/;"	function	line:549
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:551
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:554
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:559
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:560
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:561
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/4.svg" \/>$/;"	function	line:562
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:564
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:567
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <div class="row text-center">$/;"	function	line:574
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:575
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:576
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:577
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/5.svg" \/>$/;"	function	line:578
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:580
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:583
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:589
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:590
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:591
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/6.svg" \/>$/;"	function	line:592
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:594
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:597
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:602
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:603
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:604
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/7.svg" \/>$/;"	function	line:605
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:607
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:610
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                    <div class="col-sm-6 col-md-3">$/;"	function	line:615
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                      <div class="feature-each">$/;"	function	line:616
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <div class="features-icn">$/;"	function	line:617
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                          <img src="\/img\/8.svg" \/>$/;"	function	line:618
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="feature-b">$/;"	function	line:620
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                        <p class="f-solution">$/;"	function	line:623
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="fourth-block princing-blck">$/;"	function	line:638
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="wrapper">$/;"	function	line:639
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="text-center">$/;"	function	line:640
+h	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <h2>Pricing<\/h2>$/;"	function	line:641
+br	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <br \/><br \/><Br \/>$/;"	function	line:643
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="row ">$/;"	function	line:644
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-4">$/;"	function	line:645
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <img src="\/img\/price-left.svg" class="d-none d-sm-block"\/>$/;"	function	line:646
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <img src="\/img\/price-left-mob.svg" class="d-block d-sm-none"\/>$/;"	function	line:647
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-4 text-center">$/;"	function	line:649
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-none d-sm-block">$/;"	function	line:650
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#" class="button-start button-price">Get Started<\/a>$/;"	function	line:651
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <img src="\/img\/price-mob-right.svg" class="d-block d-sm-none price-right-mob"\/>$/;"	function	line:653
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <div class="col-sm-4 text-right">$/;"	function	line:656
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <img src="\/img\/price-right.svg" class="d-none d-sm-block push-right" \/>$/;"	function	line:657
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <div class="d-block d-sm-none text-center">$/;"	function	line:658
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#" class="button-start button-price">Get Started<\/a>$/;"	function	line:659
+footer	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^    <footer>$/;"	function	line:668
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^      <div class="footer">$/;"	function	line:669
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^        <div class="wrapper">$/;"	function	line:670
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="border-foo"><\/div>$/;"	function	line:671
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="row">$/;"	function	line:672
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="col-sm-4">$/;"	function	line:673
+ul	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <ul class="foo-left menu-foo">$/;"	function	line:674
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li>$/;"	function	line:675
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#">Privacy Policy<\/a>$/;"	function	line:676
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li>$/;"	function	line:678
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#">Terms and Conditions<\/a>$/;"	function	line:679
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="col-sm-4">$/;"	function	line:683
+ul	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <ul class="foo-center menu-foo">$/;"	function	line:684
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li>$/;"	function	line:685
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#">New York, Unites States<\/a>$/;"	function	line:686
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li class="d-flex d-sm-none">$/;"	function	line:688
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="mailto:info@voiso.com">info@voiso.com<\/a><a href="tel:888 708 9633" class=''>888 708 9633<\/a>$/;"	function	line:689
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li class="d-none d-sm-block">$/;"	function	line:691
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="mailto:info@voiso.com">info@voiso.com<\/a>$/;"	function	line:692
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <div class="col-sm-4">$/;"	function	line:696
+ul	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <ul class="foo-right menu-foo">$/;"	function	line:697
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li class="d-sm-block d-none">$/;"	function	line:698
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="tel:888 708 9633">888 708 9633<\/a>$/;"	function	line:699
+li	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                <li>$/;"	function	line:701
+a	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^                  <a href="#" class="sign-in">SIGN IN<\/a>$/;"	function	line:702
+div	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^          <div class="text-center copyright">$/;"	function	line:708
+p	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^            <p>$/;"	function	line:709
+img	/Applications/XAMPP/xamppfiles/htdocs/voiso1/index.html	/^              <img src="\/img\/copyright.svg" \/> 2018 Voiso. All Rights Reserved.$/;"	function	line:710
